@@ -9,6 +9,6 @@
             processorspec="x86.pspec"
             id="watcom:LE:32:default">
     <description>Intel/AMD 32-bit x86</description>
-    <compiler name="Watcom C" spec="watcom.cspec" id="watcom"/>
+    <compiler name="Watcom C" spec="x86watcom.cspec" id="watcom"/>
   </language>
 </language_definitions>
